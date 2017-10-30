@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Swinburne Feedback Blocker",
+  "description": "This extension closes the Swinburne Blackboard Unit Feedback popup as soon as it appears, each time you log into Blackboard.",
+  "version": "1.0",
+  "author": "Josiah Dean",
+  
+
+  "content_scripts": [
+    {
+        "run_at": "document_end",
+        "matches": ["https://ilearn.swin.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1"],
+        "js": ["/content_script.js"]
+    }
+]
+}
