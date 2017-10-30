@@ -1,5 +1,7 @@
 # Swin-unit-feedback-blocker
-Browser extension to block unit feedback popup (not affiliated with Swinburne or Blackboard)
+*Disclaimer: Not affiliated with Swinburne University of Technology or Blackboard*
+
+Browser extension to block unit feedback popup.
 So far, I've only made a Chrome extension, because I don't have the popup show in my Firefox installation (it could be all the other extensions installed).
 
 ## Installation instructions:
