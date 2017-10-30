@@ -6,7 +6,7 @@ So far, I've only made a Chrome extension, because I don't have the popup show i
 
 ## Installation instructions:
 I'm not going to pay for a Google development licence at this stage, so manual installation is required.
-1. Download zip
+1. Download zip (Click the green "Clone or download button" then click "Download ZIP")
 2. Extract zip
 3. In Chrome, go to chrome://extensions/
 4. Tick the "Developer mode" checkbox
